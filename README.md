@@ -1,2 +1,2 @@
-# Java-College-Project
+# Sales-Mangement-System
 
